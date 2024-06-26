@@ -1,0 +1,16 @@
+REST API - JSON
+
+GET /users - List all users
+
+GET /users/1 - Get the user 1 -Done
+GET /users/2 - Get the user 2 -Done
+
+Dynamic Path Parameters
+GET /api/users/:id
+id -> Variable //Isko change krke access kro data ko
+
+POST /users - Create new User
+
+PATCH /users/1 - Edit the user with ID 1
+
+DELETE /users/1 - Delete the user with ID 1

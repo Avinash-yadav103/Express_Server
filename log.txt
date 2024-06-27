@@ -1,0 +1,11 @@
+Request Method: POST Request URL: /api/users 
+Request Method: GET Request URL: /api/users/101 
+ 1719426876282 Request Method: GET Request URL: /api/users/100 
+ 1719432090024 Request Method: GET Request URL: /api/users/100 
+ 1719432111061 Request Method: POST Request URL: /api/users 
+ 1719432571599 Request Method: POST Request URL: /api/users 
+ 1719432575870 Request Method: GET Request URL: /api/users/100 
+ 1719434823973 Request Method: GET Request URL: /api/users/100 
+ 1719434828337 Request Method: POST Request URL: /api/users 
+ 1719435367716 Request Method: POST Request URL: /api/users 
+ 1719435373624 Request Method: POST Request URL: /api/users 
